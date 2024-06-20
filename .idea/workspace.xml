@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fe2d09f-7eba-477a-8532-3339bd5b1a5b" name="Changes" comment="feat: add repositories">
-      <change afterPath="$PROJECT_DIR$/api/src/main/resources/db/migration/v1__create-event-table.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="9fe2d09f-7eba-477a-8532-3339bd5b1a5b" name="Changes" comment="feat: add workspace ide">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +41,12 @@
     &quot;assignee&quot;: &quot;alexandrediamante&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/alexandrediamante/java-spring.git&quot;,
-    &quot;accountId&quot;: &quot;6320795a-7864-482e-a3c7-beb05987b29f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/alexandrediamante/java-spring.git",
+    "accountId": "eb5d0b0b-b496-43d8-83ad-30dd79629ac5"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -112,7 +110,7 @@
       <updated>1718727905134</updated>
       <workItem from="1718901727519" duration="282000" />
       <workItem from="1718902021100" duration="239000" />
-      <workItem from="1718902993059" duration="2421000" />
+      <workItem from="1718902993059" duration="2967000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add repositories">
       <option name="closed" value="true" />
@@ -122,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718729083957</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: add db.">
+      <option name="closed" value="true" />
+      <created>1718909161288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718909161288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: add workspace ide">
+      <option name="closed" value="true" />
+      <created>1718909231481</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718909231481</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +156,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="feat: add repositories" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add repositories" />
+    <MESSAGE value="feat: add db." />
+    <MESSAGE value="feat: add workspace ide" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add workspace ide" />
   </component>
 </project>
